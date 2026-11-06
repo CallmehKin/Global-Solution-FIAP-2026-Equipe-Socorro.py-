@@ -1,0 +1,7 @@
+{
+  "total": 18,
+  "acertos": 18,
+  "taxa_acerto_percentual": 100.0,
+  "tempo_medio_ms": 4.4575,
+  "observacao": "Mede somente a busca local; não inclui tempo humano nem rede."
+}
