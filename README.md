@@ -10,7 +10,6 @@ Julia Guimarães | RM 572241
 
 Samirah Pinotti Deranian | RM 573375
 
-Luiz Pedro Pereira Duarte | RM 568970
 
 ## Problema, público e escopo
 
