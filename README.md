@@ -2,7 +2,14 @@
 
 Continuação acadêmica do repositório `globalsolution_grupo9`. **Este protótipo é independente e não representa órgão público.**
 
-**Equipe / RMs:** [INSERIR NOMES E RMs REAIS]
+**Equipe / RMs:** 
+Isaac Aurélio de Freitas Castro | RM 571175
+
+Julia Guimarães | RM 572241
+
+Samirah Pinotti Deranian | RM 573375
+
+Luiz Pedro Pereira Duarte | RM 568970
 
 ## Problema, público e escopo
 
