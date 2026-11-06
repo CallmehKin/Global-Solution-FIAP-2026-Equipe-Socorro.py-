@@ -1,0 +1,303 @@
+[
+  {
+    "id": "ORI-001",
+    "tema": "Documentos",
+    "subtema": "CIN",
+    "pergunta": "Como emitir a nova identidade CIN?",
+    "palavras_chave": [
+      "emitir cin",
+      "tirar identidade",
+      "nova identidade",
+      "agendar cin"
+    ],
+    "orientacao": "Procure o órgão de identificação civil de seu estado ou do DF e confira agendamento e documentação no canal oficial.",
+    "referencia": "https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin",
+    "verificado_em": "2026-11-05",
+    "aviso": "Confirme requisitos e atualizações no órgão responsável; este protótipo não é um canal oficial."
+  },
+  {
+    "id": "ORI-002",
+    "tema": "Documentos",
+    "subtema": "CIN",
+    "pergunta": "A primeira via da CIN é gratuita?",
+    "palavras_chave": [
+      "cin gratis",
+      "primeira via cin",
+      "custo identidade"
+    ],
+    "orientacao": "A primeira emissão da CIN em papel é gratuita. Consulte o órgão estadual para outras modalidades ou segundas vias.",
+    "referencia": "https://www.gov.br/governodigital/pt-br/identidade/cin",
+    "verificado_em": "2026-11-05",
+    "aviso": "Confirme requisitos e atualizações no órgão responsável; este protótipo não é um canal oficial."
+  },
+  {
+    "id": "ORI-003",
+    "tema": "Documentos",
+    "subtema": "CIN",
+    "pergunta": "Qual número aparece na CIN?",
+    "palavras_chave": [
+      "numero cin",
+      "cpf identidade",
+      "identificador cin"
+    ],
+    "orientacao": "A Carteira de Identidade Nacional utiliza o CPF como número único de identificação.",
+    "referencia": "https://www.gov.br/governodigital/pt-br/identidade/cin",
+    "verificado_em": "2026-11-05",
+    "aviso": "Confirme requisitos e atualizações no órgão responsável; este protótipo não é um canal oficial."
+  },
+  {
+    "id": "ORI-004",
+    "tema": "Documentos",
+    "subtema": "CIN",
+    "pergunta": "Existe CIN digital?",
+    "palavras_chave": [
+      "cin digital",
+      "identidade no celular",
+      "carteira digital identidade"
+    ],
+    "orientacao": "Sim. A CIN possui versão digital disponível pelo aplicativo GOV.BR, após a emissão do documento.",
+    "referencia": "https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin",
+    "verificado_em": "2026-11-05",
+    "aviso": "Confirme requisitos e atualizações no órgão responsável; este protótipo não é um canal oficial."
+  },
+  {
+    "id": "ORI-005",
+    "tema": "Documentos",
+    "subtema": "CIN",
+    "pergunta": "Posso pedir segunda via da CIN?",
+    "palavras_chave": [
+      "segunda via cin",
+      "perdi identidade",
+      "nova via identidade"
+    ],
+    "orientacao": "A segunda via pode ser solicitada a órgão de identificação civil de unidade federativa; confirme taxas e exigências locais.",
+    "referencia": "https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin",
+    "verificado_em": "2026-11-05",
+    "aviso": "Confirme requisitos e atualizações no órgão responsável; este protótipo não é um canal oficial."
+  },
+  {
+    "id": "ORI-006",
+    "tema": "Documentos",
+    "subtema": "CPF",
+    "pergunta": "Como solicitar inscrição no CPF?",
+    "palavras_chave": [
+      "tirar cpf",
+      "inscricao cpf",
+      "fazer cpf"
+    ],
+    "orientacao": "Consulte o serviço oficial de inscrição no CPF para verificar canais gratuitos ou conveniados, requisitos e documentos aplicáveis.",
+    "referencia": "https://www.gov.br/pt-br/servicos/inscrever-no-cpf",
+    "verificado_em": "2026-11-05",
+    "aviso": "Confirme requisitos e atualizações no órgão responsável; este protótipo não é um canal oficial."
+  },
+  {
+    "id": "ORI-007",
+    "tema": "Documentos",
+    "subtema": "CPF",
+    "pergunta": "Como consultar a situação do CPF?",
+    "palavras_chave": [
+      "consultar cpf",
+      "situacao cpf",
+      "cpf regular"
+    ],
+    "orientacao": "A Receita Federal oferece consulta à situação cadastral do CPF; utilize somente o canal oficial.",
+    "referencia": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf",
+    "verificado_em": "2026-11-05",
+    "aviso": "Confirme requisitos e atualizações no órgão responsável; este protótipo não é um canal oficial."
+  },
+  {
+    "id": "ORI-008",
+    "tema": "Documentos",
+    "subtema": "CPF",
+    "pergunta": "Como atualizar meus dados do CPF?",
+    "palavras_chave": [
+      "atualizar cpf",
+      "corrigir cpf",
+      "alterar cadastro cpf"
+    ],
+    "orientacao": "A Receita Federal disponibiliza serviços para atualizar informações cadastrais do CPF. Confira as condições no portal oficial.",
+    "referencia": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf",
+    "verificado_em": "2026-11-05",
+    "aviso": "Confirme requisitos e atualizações no órgão responsável; este protótipo não é um canal oficial."
+  },
+  {
+    "id": "ORI-009",
+    "tema": "Serviços digitais",
+    "subtema": "Conta GOV.BR",
+    "pergunta": "O que é uma conta GOV.BR?",
+    "palavras_chave": [
+      "conta gov br",
+      "o que e govbr",
+      "identidade digital"
+    ],
+    "orientacao": "É uma identidade digital gratuita usada para acesso seguro a diversos serviços públicos digitais.",
+    "referencia": "https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br",
+    "verificado_em": "2026-11-05",
+    "aviso": "Confirme requisitos e atualizações no órgão responsável; este protótipo não é um canal oficial."
+  },
+  {
+    "id": "ORI-010",
+    "tema": "Serviços digitais",
+    "subtema": "Conta GOV.BR",
+    "pergunta": "Preciso instalar aplicativo para ter conta GOV.BR?",
+    "palavras_chave": [
+      "govbr sem aplicativo",
+      "preciso do app gov",
+      "conta sem celular"
+    ],
+    "orientacao": "Não necessariamente. A conta pode existir sem aplicativo, embora algumas funcionalidades dependam dele.",
+    "referencia": "https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br",
+    "verificado_em": "2026-11-05",
+    "aviso": "Confirme requisitos e atualizações no órgão responsável; este protótipo não é um canal oficial."
+  },
+  {
+    "id": "ORI-011",
+    "tema": "Serviços digitais",
+    "subtema": "Conta GOV.BR",
+    "pergunta": "Quais níveis existem na conta GOV.BR?",
+    "palavras_chave": [
+      "niveis govbr",
+      "bronze prata ouro",
+      "nivel conta"
+    ],
+    "orientacao": "Os níveis de segurança da conta GOV.BR são Bronze, Prata e Ouro, com diferentes formas de validação e acesso.",
+    "referencia": "https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br",
+    "verificado_em": "2026-11-05",
+    "aviso": "Confirme requisitos e atualizações no órgão responsável; este protótipo não é um canal oficial."
+  },
+  {
+    "id": "ORI-012",
+    "tema": "Serviços digitais",
+    "subtema": "Conta GOV.BR",
+    "pergunta": "Como aumentar o nível da conta com a CIN?",
+    "palavras_chave": [
+      "aumentar nivel cin",
+      "conta ouro cin",
+      "qr code cin gov"
+    ],
+    "orientacao": "No aplicativo GOV.BR, consulte a opção de aumentar nível usando QR Code da CIN e reconhecimento facial, quando disponível.",
+    "referencia": "https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/duvidas-para-aumentar-o-nivel-da-conta-gov.br/duvidas-para-aumentar-o-nivel-com-a-cin/duvidas-para-aumentar-o-nivel-com-a-cin",
+    "verificado_em": "2026-11-05",
+    "aviso": "Confirme requisitos e atualizações no órgão responsável; este protótipo não é um canal oficial."
+  },
+  {
+    "id": "ORI-013",
+    "tema": "Serviços digitais",
+    "subtema": "Conta GOV.BR",
+    "pergunta": "Para que posso usar a conta GOV.BR?",
+    "palavras_chave": [
+      "servicos govbr",
+      "usar govbr",
+      "acessar servicos digitais"
+    ],
+    "orientacao": "A conta GOV.BR permite identificação para acessar serviços públicos digitais; disponibilidade e nível exigido variam por serviço.",
+    "referencia": "https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br",
+    "verificado_em": "2026-11-05",
+    "aviso": "Confirme requisitos e atualizações no órgão responsável; este protótipo não é um canal oficial."
+  },
+  {
+    "id": "ORI-014",
+    "tema": "Serviços digitais",
+    "subtema": "Conta GOV.BR",
+    "pergunta": "Como proteger minha conta GOV.BR?",
+    "palavras_chave": [
+      "seguranca govbr",
+      "proteger conta",
+      "duas etapas gov"
+    ],
+    "orientacao": "Use os mecanismos de segurança oferecidos pelo portal GOV.BR, incluindo verificação em duas etapas quando disponível. Não compartilhe senhas.",
+    "referencia": "https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br",
+    "verificado_em": "2026-11-05",
+    "aviso": "Confirme requisitos e atualizações no órgão responsável; este protótipo não é um canal oficial."
+  },
+  {
+    "id": "ORI-015",
+    "tema": "Direitos e acesso",
+    "subtema": "Acesso a serviços",
+    "pergunta": "É preciso pagar para criar conta GOV.BR?",
+    "palavras_chave": [
+      "conta gov paga",
+      "govbr gratuito",
+      "custo conta gov"
+    ],
+    "orientacao": "Não. A criação da conta GOV.BR é gratuita; desconfie de cobranças para abrir uma conta.",
+    "referencia": "https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br",
+    "verificado_em": "2026-11-05",
+    "aviso": "Confirme requisitos e atualizações no órgão responsável; este protótipo não é um canal oficial."
+  },
+  {
+    "id": "ORI-016",
+    "tema": "Direitos e acesso",
+    "subtema": "Documentação",
+    "pergunta": "Menores de idade podem ter CIN?",
+    "palavras_chave": [
+      "cin menor",
+      "identidade crianca",
+      "cin adolescente"
+    ],
+    "orientacao": "Sim. Menores de 18 anos podem ter CIN; confira os requisitos de CPF e acompanhamento no órgão emissor.",
+    "referencia": "https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin",
+    "verificado_em": "2026-11-05",
+    "aviso": "Confirme requisitos e atualizações no órgão responsável; este protótipo não é um canal oficial."
+  },
+  {
+    "id": "ORI-017",
+    "tema": "Direitos e acesso",
+    "subtema": "Documentação",
+    "pergunta": "A CIN substitui todos os documentos?",
+    "palavras_chave": [
+      "cin substitui passaporte",
+      "cin substitui documentos",
+      "so preciso da cin"
+    ],
+    "orientacao": "Não. A CIN padroniza a identificação civil, mas outros documentos continuam necessários conforme o serviço e a situação.",
+    "referencia": "https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin",
+    "verificado_em": "2026-11-05",
+    "aviso": "Confirme requisitos e atualizações no órgão responsável; este protótipo não é um canal oficial."
+  },
+  {
+    "id": "ORI-018",
+    "tema": "Direitos e acesso",
+    "subtema": "Documentação",
+    "pergunta": "A identidade antiga ainda vale?",
+    "palavras_chave": [
+      "rg antigo vale",
+      "validade rg",
+      "trocar rg"
+    ],
+    "orientacao": "Segundo as orientações oficiais, documentos de identidade antigos permanecem válidos até 28 de fevereiro de 2032, observadas as regras aplicáveis.",
+    "referencia": "https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin",
+    "verificado_em": "2026-11-05",
+    "aviso": "Confirme requisitos e atualizações no órgão responsável; este protótipo não é um canal oficial."
+  },
+  {
+    "id": "ORI-019",
+    "tema": "Direitos e acesso",
+    "subtema": "CPF",
+    "pergunta": "Crianças podem ter CPF?",
+    "palavras_chave": [
+      "cpf crianca",
+      "cpf bebe",
+      "idade minima cpf"
+    ],
+    "orientacao": "Sim. Não há idade mínima para inscrição no CPF; os documentos e procedimentos variam conforme a idade e a representação legal.",
+    "referencia": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf",
+    "verificado_em": "2026-11-05",
+    "aviso": "Confirme requisitos e atualizações no órgão responsável; este protótipo não é um canal oficial."
+  },
+  {
+    "id": "ORI-020",
+    "tema": "Direitos e acesso",
+    "subtema": "Acesso a serviços",
+    "pergunta": "A conta GOV.BR é um canal oficial deste assistente?",
+    "palavras_chave": [
+      "assistente oficial",
+      "voce e governo",
+      "canal oficial"
+    ],
+    "orientacao": "Não. Este protótipo é educacional e independente; para solicitar serviços e confirmar regras, acesse diretamente os canais oficiais citados.",
+    "referencia": "https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br",
+    "verificado_em": "2026-11-05",
+    "aviso": "Confirme requisitos e atualizações no órgão responsável; este protótipo não é um canal oficial."
+  }
+]

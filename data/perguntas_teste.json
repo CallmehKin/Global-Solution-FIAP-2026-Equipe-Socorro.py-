@@ -1,0 +1,110 @@
+[
+  {
+    "id": "T01",
+    "pergunta": "Como emitir a nova identidade CIN?",
+    "esperado": "ORI-001",
+    "categoria": "direta_ou_reformulada"
+  },
+  {
+    "id": "T02",
+    "pergunta": "A primeira via da CIN é gratuita?",
+    "esperado": "ORI-002",
+    "categoria": "direta_ou_reformulada"
+  },
+  {
+    "id": "T03",
+    "pergunta": "Qual número aparece na CIN?",
+    "esperado": "ORI-003",
+    "categoria": "direta_ou_reformulada"
+  },
+  {
+    "id": "T04",
+    "pergunta": "Existe CIN digital?",
+    "esperado": "ORI-004",
+    "categoria": "direta_ou_reformulada"
+  },
+  {
+    "id": "T05",
+    "pergunta": "Como pedir segunda via da CIN?",
+    "esperado": "ORI-005",
+    "categoria": "direta_ou_reformulada"
+  },
+  {
+    "id": "T06",
+    "pergunta": "Como faço para tirar CPF?",
+    "esperado": "ORI-006",
+    "categoria": "direta_ou_reformulada"
+  },
+  {
+    "id": "T07",
+    "pergunta": "Como consultar a situação do CPF?",
+    "esperado": "ORI-007",
+    "categoria": "direta_ou_reformulada"
+  },
+  {
+    "id": "T08",
+    "pergunta": "Como atualizar meus dados do CPF?",
+    "esperado": "ORI-008",
+    "categoria": "direta_ou_reformulada"
+  },
+  {
+    "id": "T09",
+    "pergunta": "O que é uma conta GOV.BR?",
+    "esperado": "ORI-009",
+    "categoria": "direta_ou_reformulada"
+  },
+  {
+    "id": "T10",
+    "pergunta": "Preciso instalar aplicativo para ter conta GOV.BR?",
+    "esperado": "ORI-010",
+    "categoria": "direta_ou_reformulada"
+  },
+  {
+    "id": "T11",
+    "pergunta": "Quais níveis existem na conta GOV.BR?",
+    "esperado": "ORI-011",
+    "categoria": "direta_ou_reformulada"
+  },
+  {
+    "id": "T12",
+    "pergunta": "Como aumentar o nível da conta com a CIN?",
+    "esperado": "ORI-012",
+    "categoria": "direta_ou_reformulada"
+  },
+  {
+    "id": "T13",
+    "pergunta": "A conta GOV.BR é gratuita?",
+    "esperado": "ORI-015",
+    "categoria": "direta_ou_reformulada"
+  },
+  {
+    "id": "T14",
+    "pergunta": "Crianças podem ter CPF?",
+    "esperado": "ORI-019",
+    "categoria": "direta_ou_reformulada"
+  },
+  {
+    "id": "T15",
+    "pergunta": "Como solicitar licença para construir em Marte?",
+    "esperado": null,
+    "categoria": "fora_base"
+  },
+  {
+    "id": "T16",
+    "pergunta": "",
+    "esperado": null,
+    "categoria": "invalida"
+  },
+  {
+    "id": "T17",
+    "pergunta": "xyzzy quantum banana",
+    "esperado": null,
+    "categoria": "fora_base"
+  },
+  {
+    "id": "T18",
+    "pergunta": "identidade cpf",
+    "esperado": null,
+    "categoria": "fora_base"
+  }
+]
