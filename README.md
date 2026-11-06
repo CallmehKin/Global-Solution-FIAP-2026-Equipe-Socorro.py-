@@ -1,6 +1,6 @@
 # Citizen Assist AI — Global Solution 2026.2 | Grupo 9
 
-Continuação acadêmica do repositório ´https://github.com/CastroIsaac/globalsolution_grupo9.git´. **Este protótipo é independente e não representa órgão público.**
+Continuação acadêmica do repositório `https://github.com/CastroIsaac/globalsolution_grupo9.git`. **Este protótipo é independente e não representa órgão público.**
 
 **Equipe / RMs:** 
 
