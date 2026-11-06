@@ -3,6 +3,7 @@
 Continuação acadêmica do repositório `globalsolution_grupo9`. **Este protótipo é independente e não representa órgão público.**
 
 **Equipe / RMs:** 
+
 Isaac Aurélio de Freitas Castro | RM 571175
 
 Julia Guimarães | RM 572241
