@@ -52,7 +52,7 @@ Cada registro contém URL de referência institucional e data da verificação e
 
 ## Vídeo
 
-**Link:** [PENDENTE — adicionar URL após publicar vídeo não listado]. Roteiro em `docs/roteiro_video.md`.
+**Link:** [PENDENTE — adicionar URL após publicar vídeo não listado].
 
 ## Limitações e melhorias
 
