@@ -43,7 +43,7 @@ Pergunta: `O que é uma conta GOV.BR?` → resposta da base com URL oficial. Per
 
 ## Avaliação
 
-Executar `python tests/avaliar.py` para gerar `docs/resultados_testes.csv` e `docs/indicadores.json`. Os resultados são medidos na máquina em que o comando é executado. Teste de facilidade de uso: protocolo em `docs/teste_usabilidade.md` — **pendente de participante real**. O relatório PDF identifica explicitamente essa pendência.
+Executar `python tests/avaliar.py` para gerar `docs/resultados_testes.csv` e `docs/indicadores.json`. Os resultados são medidos na máquina em que o comando é executado. Usabilidade: avaliação heurística (10 heurísticas de Nielsen) em `docs/teste_usabilidade.md`. Pontos fortes: fonte, data e aviso em toda resposta e recusa em inventar respostas. Problemas principais: ao navegar por tema as perguntas disponíveis não são listadas, e termos populares como "RG" não são reconhecidos. Não houve teste com participantes externos.
 
 ## Fontes, acessibilidade e privacidade
 
@@ -55,4 +55,4 @@ Cada registro contém URL de referência institucional e data da verificação e
 
 ## Limitações e melhorias
 
-A base é finita, o algoritmo é heurístico e pode apresentar falsos positivos; datas e serviços podem mudar. Melhorias: limiares calibrados, sinônimos revisados, atualização periódica das fontes e teste de usabilidade ampliado.
+A base é finita, o algoritmo é heurístico e pode apresentar falsos positivos; datas e serviços podem mudar. Melhorias: limiares calibrados, sinônimos revisados, atualização periódica das fontes, listar perguntas numeradas por tema, opções de voltar e ajuda, e teste com usuários reais.

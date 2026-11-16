@@ -105,6 +105,6 @@
     "id": "T18",
     "pergunta": "identidade cpf",
     "esperado": null,
-    "categoria": "fora_base"
+    "categoria": "ambigua"
   }
 ]

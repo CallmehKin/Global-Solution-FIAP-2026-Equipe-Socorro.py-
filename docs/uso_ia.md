@@ -1,6 +1,6 @@
 # Uso de IA e validação crítica
 
-Ferramenta utilizada no desenvolvimento: ChatGPT (OpenAI), para planejamento, redação inicial, estrutura de código e proposta de testes. Nenhuma API externa de IA é chamada pelo protótipo em execução.
+Ferramentas utilizadas no desenvolvimento: ChatGPT (OpenAI), para planejamento, redação inicial, estrutura de código e proposta de testes; e Claude (Anthropic), para revisão final do repositório, conferência do checklist de entrega, apoio na execução e registro da avaliação heurística e roteiro do vídeo. Todas as sugestões foram revisadas pela equipe. Nenhuma API externa de IA é chamada pelo protótipo em execução.
 
 ## Modelos de instrução de resposta
 
@@ -8,7 +8,7 @@ Ferramenta utilizada no desenvolvimento: ChatGPT (OpenAI), para planejamento, re
 
 **Modelo B — resposta estruturada:** "Apresente ORIENTAÇÃO, FONTE, DATA DE VERIFICAÇÃO, AVISO DE LIMITAÇÃO e TEMAS RELACIONADOS. Não invente conteúdo; se não houver correspondência suficiente, informe a limitação."
 
-Os modelos são **templates determinísticos** implementados em `formatar` e não prompts enviados a um modelo generativo. A comparação pode ser reproduzida com `formatar(resultado, 'A')` e `formatar(resultado, 'B')`. O modelo B foi escolhido pelo critério de rastreabilidade: exibe data, fonte e aviso; a clareza deve ser validada no teste humano de usabilidade.
+Os modelos são **templates determinísticos** implementados em `formatar` e não prompts enviados a um modelo generativo. A comparação pode ser reproduzida com `formatar(resultado, 'A')` e `formatar(resultado, 'B')`. O modelo B foi escolhido pelo critério de rastreabilidade: exibe data, fonte e aviso; a clareza foi analisada na avaliação heurística (`docs/teste_usabilidade.md`) e deve ser confirmada em teste com usuários.
 
 ## Validação
 
