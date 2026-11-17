@@ -51,7 +51,7 @@ Cada registro contém URL de referência institucional e data da verificação e
 
 ## Vídeo
 
-**Link:** [PENDENTE — adicionar URL após publicar vídeo não listado].
+**Link:** https://youtu.be/EZmp-DB5Ap4 (não listado no YouTube)
 
 ## Limitações e melhorias
 
