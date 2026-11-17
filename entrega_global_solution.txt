@@ -1,0 +1,34 @@
+GLOBAL SOLUTION 2026.2 — FIAP
+Projeto: Citizen Assist AI
+Grupo 9 — Equipe Socorro.py
+
+INTEGRANTES
+- Isaac Aurélio de Freitas Castro — RM 571175
+- Julia Guimarães — RM 572241
+- Samirah Pinotti Deranian — RM 573375
+
+LINKS
+Repositório GitHub: https://github.com/CallmehKin/Global-Solution-FIAP-2026-Equipe-Socorro.py-
+Vídeo de apresentação (YouTube, não listado): https://youtu.be/EZmp-DB5Ap4
+
+DESCRIÇÃO
+Protótipo educacional em Python, offline, que consulta uma base JSON com 20 orientações
+sobre documentos (CIN, CPF), conta GOV.BR e direitos de acesso, sempre exibindo a fonte
+oficial, a data de verificação e um aviso. Não é canal oficial e não solicita dados pessoais.
+
+COMO EXECUTAR (Python 3.10+, sem dependências externas)
+python src/sistema.py
+python -m unittest discover -s tests -v
+python tests/avaliar.py
+
+ENTREGÁVEIS NO REPOSITÓRIO
+- README.md — visão geral, execução, algoritmos, avaliação e limitações
+- src/sistema.py — código do protótipo
+- data/base.json — base de conhecimento (20 registros)
+- tests/ — 11 testes automatizados e script de avaliação (18 casos, 18 acertos)
+- docs/relatorio.pdf — relatório técnico
+- docs/teste_usabilidade.md — avaliação heurística (10 heurísticas de Nielsen)
+- docs/comparacao_modelos.md — comparação dos modelos de resposta A e B
+- docs/uso_ia.md — uso de IA e validação crítica
+- docs/resultados_testes.csv e docs/indicadores.json — resultados da avaliação
+- docs/roteiro_video.md e docs/link_video.txt — roteiro e link do vídeo
